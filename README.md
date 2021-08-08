@@ -54,8 +54,6 @@ Here are some ideas to get you started:
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaniaY21&langs_count=8&layout=compact)](https://github.com/TaniaY21/github-readme-stats)
-
-<br />
 <br />
 
 ![Tania's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaniaY21&count_private=true&show_icons=true&theme=radical&disable_animations=true)
