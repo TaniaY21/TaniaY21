@@ -51,12 +51,3 @@ Here are some ideas to get you started:
 ![Tania's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaniaY21&count_private=true&show_icons=true&theme=radical&disable_animations=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taniay21&" alt="taniay21" /></p>
-
-<!-- <img align="left" alt="Swift" title="Swift" width="26px" src="https://developer.apple.com/swift/images/swift-logo.svg" />
- -->
-<!-- <img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- -->
-<!-- <img align="left" alt="Realm" title="Realm" width="26px" src="https://iconape.com/wp-content/files/gu/371380/svg/371380.svg" />
- -->
-<!-- <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- -->
