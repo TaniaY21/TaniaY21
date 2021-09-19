@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 大家好 Hola 👋
 
 <!--
 **TaniaY21/TaniaY21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 
 #### My name is Tania and I have been learning to code for the past year. 
 
+- I have spent several years living in China and Taiwan, one year in Spain.
 - 📱 My first ever real project was a Swift app I created for learning Chinese. You can see it on the App store:
 [天天向上: Chinese Word of the Day](https://apps.apple.com/us/app/%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A-hsk-5-chinese-wotd/id1547074310#?platform=iphone)
 - 👩🏻‍💻 [School of Code](https://github.com/SchoolOfCode) cohort 6 student
-- 🔭 I am really interested in NLP (no, not the pseudoscience!)
+- 🔭 I am really interested in NLP (no, not the pseudoscience!) which is what got me interested in the world of tech 
 
 
 #### Languages and Tools:
