@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 
 - 📱 My first ever real project was a Swift app I created for learning Chinese. You can see it on the App store:
 [天天向上: Chinese Word of the Day](https://apps.apple.com/us/app/%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A-hsk-5-chinese-wotd/id1547074310#?platform=iphone)
-- 👩🏻‍💻 [School of Code](https://github.com/SchoolOfCode) cohort 6 student
+- 👩🏻‍💻 [School of Code](https://github.com/SchoolOfCode) cohort 6 graduate
 - 🌍 I have spent several years living in China and Taiwan, one year in Spain.
 - 🔭 I am really interested in NLP (no, not the pseudoscience!) which is what got me interested in the world of tech 
+- 👯 I’m looking to collaborate on a language learning website or mobile app perhaps 
 
 #### Languages and Tools:
 
