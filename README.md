@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 [School of Code](https://github.com/SchoolOfCode) cohort 6 graduate
 - 🔭 I am really interested in NLP (no, not the pseudoscience!) which is what got me interested in the world of tech 
 - 👯 I’m looking to collaborate on a language learning website or mobile app perhaps 
-- ⚡ Fun fact: I have spent several years living in China and Taiwan, one year in Spain 🌍 
+- ⚡ Fun fact: I have spent several years living in China and Taiwan, one year in Spain & Egypt 🌍 
 
 
 #### Languages and Tools:
