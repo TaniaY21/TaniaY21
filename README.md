@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 #### My name is Tania. 
 
-- 📱 My first ever real project was a Swift app I created for learning Chinese called 天天向上: Chinese Word of the Day
+- 📱 My first ever real project was a Swift app I created for learning Chinese called 天天向上: Chinese Word of the Day. You can look through the horrific code base below =D 
 - 🔭 I am interested in computational linguistics which is what got me interested in the world of tech 
 - 👯 I’m open to collaborating on language learning websites or mobile app  
 
